@@ -2,6 +2,7 @@
 .vscode/
 .idea/
 *.iml
+out/
 
 # Ignore operating system generated files
 .DS_Store
